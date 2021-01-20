@@ -1,0 +1,25 @@
+html{
+margin: 0;
+background-image: url("https://i.pinimg.com/originals/51/ed/c0/51edc046eb80046ee4755ee71d0f19ca.jpg");
+}
+html,body{
+height: 100%;
+margin : 0;
+}
+.field_container{
+height: 100%;
+display: grid;
+align-content: center;
+justify-content: center;
+}
+.paper_style{
+	border-radius: 0.5rem;
+
+}
+.Grid_style{
+	padding: 0.5rem;
+
+}
+.inp{
+margin : 0.5rem;
+}

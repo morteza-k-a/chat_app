@@ -1,0 +1,8 @@
+._body {
+  height: 82%;
+  overflow-y: auto;
+}
+.message_body{
+overflow: auto;
+min-width: 8rem;
+}

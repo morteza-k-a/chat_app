@@ -1,0 +1,46 @@
+          <Button style={{marginLeft:".5rem"}} variant="contained" color="primary" className="send_btn" onClick={this.emt}>
+            Send
+          </Button>
+//////////////
+class Chat extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      name: this.props.location.name,
+      room: this.props.location.room,
+      messages: [],
+    };
+  }
+  emt = () => {
+    alert("button pressed");
+  };
+  render() {
+    return (
+      <div style={{ height: "100%" }}>
+        <div className="_head">
+          <h2>{this.state.room}</h2>
+        </div>
+        <div id="messagediv" className="_body">
+          {
+            [1,2,3,4,5,6,7,8,9,10].map(e=>{
+              return(
+                <Message name="random name" message="some messege here"/>
+              )
+            })
+          }
+        </div>
+<Paper className="_foot">
+        <div className="mcontainer">
+
+ <TextField style={{marginTop:".5rem"}} className="msg_inp" id="message_inp" type="text" />
+          <Button style={{margin:".5rem"}} variant="contained" color="primary" className="send_btn" onClick={this.emt}>
+            Send
+          </Button>
+        </div>
+</Paper>
+      </div>
+    );
+  }
+}
+
+export default Chat;
