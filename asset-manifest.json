@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/chat_app/static/css/main.878bd97a.chunk.css",
-    "main.js": "/chat_app/static/js/main.bcce172f.chunk.js",
-    "main.js.map": "/chat_app/static/js/main.bcce172f.chunk.js.map",
-    "runtime-main.js": "/chat_app/static/js/runtime-main.26792a95.js",
-    "runtime-main.js.map": "/chat_app/static/js/runtime-main.26792a95.js.map",
+    "main.js": "/chat_app/static/js/main.0086ec49.chunk.js",
+    "main.js.map": "/chat_app/static/js/main.0086ec49.chunk.js.map",
+    "runtime-main.js": "/chat_app/static/js/runtime-main.30377998.js",
+    "runtime-main.js.map": "/chat_app/static/js/runtime-main.30377998.js.map",
     "static/js/2.20e93291.chunk.js": "/chat_app/static/js/2.20e93291.chunk.js",
     "static/js/2.20e93291.chunk.js.map": "/chat_app/static/js/2.20e93291.chunk.js.map",
     "static/js/3.377a3b1a.chunk.js": "/chat_app/static/js/3.377a3b1a.chunk.js",
     "static/js/3.377a3b1a.chunk.js.map": "/chat_app/static/js/3.377a3b1a.chunk.js.map",
     "static/css/4.f13b63a7.chunk.css": "/chat_app/static/css/4.f13b63a7.chunk.css",
-    "static/js/4.f55de477.chunk.js": "/chat_app/static/js/4.f55de477.chunk.js",
-    "static/js/4.f55de477.chunk.js.map": "/chat_app/static/js/4.f55de477.chunk.js.map",
+    "static/js/4.17970e3e.chunk.js": "/chat_app/static/js/4.17970e3e.chunk.js",
+    "static/js/4.17970e3e.chunk.js.map": "/chat_app/static/js/4.17970e3e.chunk.js.map",
     "index.html": "/chat_app/index.html",
     "static/css/4.f13b63a7.chunk.css.map": "/chat_app/static/css/4.f13b63a7.chunk.css.map",
     "static/css/main.878bd97a.chunk.css.map": "/chat_app/static/css/main.878bd97a.chunk.css.map",
@@ -19,9 +19,9 @@
     "static/js/3.377a3b1a.chunk.js.LICENSE.txt": "/chat_app/static/js/3.377a3b1a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.26792a95.js",
+    "static/js/runtime-main.30377998.js",
     "static/js/3.377a3b1a.chunk.js",
     "static/css/main.878bd97a.chunk.css",
-    "static/js/main.bcce172f.chunk.js"
+    "static/js/main.0086ec49.chunk.js"
   ]
 }
